@@ -25,10 +25,16 @@ cd bigdata-uts-steam-analysis
 
 Jalankan notebook sesuai urutan berikut:
 00_scraping.ipynb → Mengambil data ulasan dari Steam (scraping)
+
 01_cleaning_eda.ipynb → Membersihkan data dan melakukan EDA
+
 02_preprocessing.ipynb → Menyiapkan data sebelum modeling 
+
 03_model_classification.ipynb → Klasifikasi sentimen ulasan 
+
+
 04_model_regression.ipynb → Prediksi rating atau popularitas 
+
 05_model_clustering.ipynb → Pengelompokan game berdasarkan karakteristik 
 Hasil visualisasi dan grafik otomatis disimpan ke folder /reports/figures/. 
 
