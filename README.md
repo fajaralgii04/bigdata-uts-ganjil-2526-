@@ -36,6 +36,7 @@ Jalankan notebook sesuai urutan berikut:
 04_model_regression.ipynb → Prediksi rating atau popularitas 
 
 05_model_clustering.ipynb → Pengelompokan game berdasarkan karakteristik 
+
 Hasil visualisasi dan grafik otomatis disimpan ke folder /reports/figures/. 
 
 
