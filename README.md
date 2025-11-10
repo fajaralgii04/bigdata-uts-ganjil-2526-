@@ -12,6 +12,7 @@ Mengelompokkan game berdasarkan karakteristiknya seperti genre, rating, dan popu
 Mengembangkan model prediktif untuk memperkirakan rating atau sentimen ulasan pengguna.
 
 Muhammad Fajar Algifari	1103223119 >> Data Engineer & Machine Learning Engineer
+
 Auldy Ranayu Sanny Prahasty Rachman	1103223216 >>	Data Analyst
 
 Cara Menjalankan Notebook
@@ -19,6 +20,7 @@ Cara Menjalankan Notebook
 Clone repository ini ke lokal atau buka di Google Colab:
 
 git clone https://github.com/fajaralgii04/bigdata-uts-ganjil-2526- 
+
 cd bigdata-uts-steam-analysis
 
 Jalankan notebook sesuai urutan berikut:
