@@ -11,23 +11,33 @@ Menganalisis hubungan antara harga, ulasan positif, dan waktu bermain.
 Mengelompokkan game berdasarkan karakteristiknya seperti genre, rating, dan popularitas.
 Mengembangkan model prediktif untuk memperkirakan rating atau sentimen ulasan pengguna.
 
-Muhammad Fajar Algifari	1103223119 >> Data Engineer & Machine Learning Engineer
+Muhammad Fajar Algifari	1103223119 >> Data Engineer & Machine Learning Engineer 
+
 Auldy Ranayu Sanny Prahasty Rachman	1103223216 >>	Data Analyst
 
 Cara Menjalankan Notebook
+
 Clone repository ini ke lokal atau buka di Google Colab:
 
 git clone https://github.com/fajaralgii04/bigdata-uts-ganjil-2526- 
+
 cd bigdata-uts-steam-analysis
 
 Jalankan notebook sesuai urutan berikut:
-00_scraping.ipynb → Mengambil data ulasan dari Steam (scraping) 
-01_cleaning_eda.ipynb → Membersihkan data dan melakukan EDA 
+00_scraping.ipynb → Mengambil data ulasan dari Steam (scraping)
+
+01_cleaning_eda.ipynb → Membersihkan data dan melakukan EDA
+
 02_preprocessing.ipynb → Menyiapkan data sebelum modeling 
+
 03_model_classification.ipynb → Klasifikasi sentimen ulasan 
+
 04_model_regression.ipynb → Prediksi rating atau popularitas 
+
 05_model_clustering.ipynb → Pengelompokan game berdasarkan karakteristik 
+
 Hasil visualisasi dan grafik otomatis disimpan ke folder /reports/figures/. 
+
 
 # bigdata-uts-ganjil-2526
 
