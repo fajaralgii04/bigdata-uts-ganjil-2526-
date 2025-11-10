@@ -16,8 +16,10 @@ Auldy Ranayu Sanny Prahasty Rachman	1103223216 >>	Data Analyst
 
 Cara Menjalankan Notebook
 Clone repository ini ke lokal atau buka di Google Colab:
+
 git clone https://github.com/fajaralgii04/bigdata-uts-ganjil-2526-
 cd bigdata-uts-steam-analysis
+
 Jalankan notebook sesuai urutan berikut:
 00_scraping.ipynb → Mengambil data ulasan dari Steam (scraping)
 01_cleaning_eda.ipynb → Membersihkan data dan melakukan EDA
