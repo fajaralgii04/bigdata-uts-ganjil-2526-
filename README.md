@@ -17,17 +17,17 @@ Auldy Ranayu Sanny Prahasty Rachman	1103223216 >>	Data Analyst
 Cara Menjalankan Notebook
 Clone repository ini ke lokal atau buka di Google Colab:
 
-git clone https://github.com/fajaralgii04/bigdata-uts-ganjil-2526- \n
+git clone https://github.com/fajaralgii04/bigdata-uts-ganjil-2526- 
 cd bigdata-uts-steam-analysis
 
 Jalankan notebook sesuai urutan berikut:
-00_scraping.ipynb → Mengambil data ulasan dari Steam (scraping) \n
-01_cleaning_eda.ipynb → Membersihkan data dan melakukan EDA \n
-02_preprocessing.ipynb → Menyiapkan data sebelum modeling \n
-03_model_classification.ipynb → Klasifikasi sentimen ulasan \n
-04_model_regression.ipynb → Prediksi rating atau popularitas \n
-05_model_clustering.ipynb → Pengelompokan game berdasarkan karakteristik \n
-Hasil visualisasi dan grafik otomatis disimpan ke folder /reports/figures/. \n
+00_scraping.ipynb → Mengambil data ulasan dari Steam (scraping) 
+01_cleaning_eda.ipynb → Membersihkan data dan melakukan EDA 
+02_preprocessing.ipynb → Menyiapkan data sebelum modeling 
+03_model_classification.ipynb → Klasifikasi sentimen ulasan 
+04_model_regression.ipynb → Prediksi rating atau popularitas 
+05_model_clustering.ipynb → Pengelompokan game berdasarkan karakteristik 
+Hasil visualisasi dan grafik otomatis disimpan ke folder /reports/figures/. 
 
 # bigdata-uts-ganjil-2526
 
