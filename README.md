@@ -11,11 +11,15 @@ Menganalisis hubungan antara harga, ulasan positif, dan waktu bermain.
 Mengelompokkan game berdasarkan karakteristiknya seperti genre, rating, dan popularitas.
 Mengembangkan model prediktif untuk memperkirakan rating atau sentimen ulasan pengguna.
 
+__________________________________________________________________________________
+
 Muhammad Fajar Algifari	1103223119 >> Data Engineer & Machine Learning Engineer
 
 Auldy Ranayu Sanny Prahasty Rachman	1103223216 >>	Data Analyst
 
-Cara Menjalankan Notebook
+__________________________________________________________________________________
+
+-Cara Menjalankan Notebook-
 
 Clone repository ini ke lokal atau buka di Google Colab:
 
@@ -32,13 +36,13 @@ Jalankan notebook sesuai urutan berikut:
 
 03_model_classification.ipynb → Klasifikasi sentimen ulasan 
 
-
 04_model_regression.ipynb → Prediksi rating atau popularitas 
 
 05_model_clustering.ipynb → Pengelompokan game berdasarkan karakteristik 
 
 Hasil visualisasi dan grafik otomatis disimpan ke folder /reports/figures/. 
 
+___________________________________________________________________________________
 
 # bigdata-uts-ganjil-2526
 
