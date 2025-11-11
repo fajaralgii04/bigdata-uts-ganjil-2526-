@@ -14,3 +14,4 @@ Berisi **dataset open-source dari Kaggle** yang digunakan dalam proyek *Big Data
 - Berasal dari Kaggle: *Steam Game Reviews (Top 10 Games)*.  
 - Digunakan sebagai **70% data open-source** dalam proyek ini.
 
+sumber: https://www.kaggle.com/datasets/akashunikaggle/steam-game-reviews-of-743-games/data?select=steam_game_reviews_730945.csv
