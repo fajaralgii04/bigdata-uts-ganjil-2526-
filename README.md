@@ -24,27 +24,49 @@ Pendekatan **Big Data Analytics** digunakan untuk:
 ## 🧩 Struktur Folder
 
 bigdata-uts-ganjil-2526-/
+
 ├─ data/
+
 │ ├─ raw/ # Hasil scraping Steam API (8k ulasan)
+
 │ ├─ external/ # Dataset Kaggle (21k ulasan)
+
 │ ├─ processed/ # Hasil cleaning & preprocessing
+
 │ └─ final/ # Dataset siap analisis & modeling
+
 │
+
 ├─ notebooks/
+
 │ ├─ 00_scraping.ipynb # Pengambilan data dari Steam API
+
 │ ├─ 01_cleaning_eda.ipynb # Data cleaning & EDA (SMART)
+
 │ ├─ 02_preprocessing.ipynb # Normalisasi & encoding
+
 │ ├─ 03_model_classification.ipynb # SVM & Random Forest
+
 │ ├─ 04_model_regression.ipynb # Linear Regression & XGBoost
+
 │ └─ 05_model_clustering.ipynb # K-Means & DBSCAN
+
 │
+
 ├─ reports/
+
 │ ├─ figures/ # Grafik hasil analisis
+
 │ └─ Kelompok5_TugasBesarBigData.pdf # Laporan akhir lengkap
+
 │
+
 ├─ src/ # Script modular (scraping, cleaning, modeling)
+
 │
+
 ├─ Kelompok5_Code.ipynb # Notebook utama (reproducible)
+
 └─ README.md
 
 ---
