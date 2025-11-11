@@ -169,7 +169,7 @@ Menangkap hubungan kompleks antar fitur numerik.
 
 ## 🧾 Reproduksi Analisis
 
-Dosen atau pengguna dapat langsung menjalankan seluruh pipeline tanpa Google Drive:
+pengguna dapat langsung menjalankan seluruh pipeline tanpa Google Drive:
 
 ```bash
 git clone https://github.com/fajaralgii04/bigdata-uts-ganjil-2526-.git
