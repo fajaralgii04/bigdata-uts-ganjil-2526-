@@ -33,7 +33,7 @@ bigdata-uts-ganjil-2526-/
 
 │ ├─ processed/ # Hasil cleaning & preprocessing
 
-│ └─ final/ # Dataset siap analisis & modeling
+│ └─ semua csv (gabungan)
 
 │
 
@@ -51,7 +51,7 @@ bigdata-uts-ganjil-2526-/
 
 │ └─ 05_model_clustering.ipynb # K-Means & DBSCAN
 
-│
+│ └─ combine scrap dan kaggle.ipynb
 
 ├─ reports/
 
@@ -69,7 +69,6 @@ bigdata-uts-ganjil-2526-/
 
 └─ README.md
 
----
 
 ## ⚙️ Alur Analisis
 
