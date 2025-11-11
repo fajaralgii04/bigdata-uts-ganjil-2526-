@@ -1,6 +1,16 @@
-Dataset ini dipangkas dari dataset Steam Game Reviews di Kaggle yang berisi lebih dari 730.000 ulasan menjadi sebuah subset yang lebih mudah dikelola yaitu 21.000 ulasan. Subset ini fokus pada 10 gim terpopuler, dengan sekitar 2.100 ulasan per gim.
+# 📁 data/external
 
-Pengurangan ini bertujuan untuk menjaga keragaman data yang representatif sambil mengoptimalkan efisiensi proses eksplorasi dan pemodelan dalam proyek Big Data Analytics.
+Berisi **dataset open-source dari Kaggle** yang digunakan dalam proyek *Big Data UTS Ganjil 25/26*.
 
-Sumber dataset lengkap tersedia di Kaggle: Steam Game Reviews (743 gim)
-.
+### 🧾 File:
+- `steam_game_reviews_top10_21000.csv` — dataset berisi ±21.000 ulasan dari 10 game populer di Steam.
+
+### 📊 Struktur Kolom:
+`appid`, `review`, `word_count`, `voted_up`, `votes_up`, `votes_funny`,  
+`timestamp_created`, `author_playtime_forever`, `name`, `price`, `release_date`
+
+### 💡 Keterangan:
+- Dataset bersih dan siap digabung dengan hasil scraping (`/data/raw/`).
+- Berasal dari Kaggle: *Steam Game Reviews (Top 10 Games)*.  
+- Digunakan sebagai **70% data open-source** dalam proyek ini.
+
